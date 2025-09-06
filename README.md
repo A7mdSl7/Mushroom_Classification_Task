@@ -94,4 +94,5 @@ For example:
 📎 Links
 
 📂 Google  Drive (KNN model): https://drive.google.com/file/d/1hgc4JTcxm44gku0TIIHbi2Vspmf6xBpH/view?usp=sharing
-📊 Dataset source: UCI Machine Learning Repository - Mushroom Datase
+
+📊 Dataset source: https://archive.ics.uci.edu/dataset/73/mushroom
