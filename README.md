@@ -59,3 +59,39 @@ Random Forest and KNN performed the best overall with very high accuracy and sta
 
 ### ROC Curves
 ROC-AUC curves were plotted to visualize performance of all models.
+
+---
+
+## 💾 Saved Models
+For example:
+- `logistic_regression_model.pkl`
+- `decision_tree_model.pkl`
+- `random_forest_model.pkl`
+- `svm_model.pkl`
+- `naive_bayes_model.pkl`
+- `knn_model_compressed.pkl` (stored on **Google Drive** due to size limitation)
+
+---
+
+## 🚀 How to Run
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/A7mdSl7/Mushroom_Classification_Task.git
+   cd Mushroom_Classification_Task
+
+---
+
+## Install dependencies:
+    pip install -r requirements.txt
+
+---
+
+## Run the Jupyter Notebook:
+    jupyter notebook Mushroom_Classification_Task.ipynb
+
+---
+
+📎 Links
+
+📂 Google  Drive (KNN model): https://drive.google.com/file/d/1hgc4JTcxm44gku0TIIHbi2Vspmf6xBpH/view?usp=sharing
+📊 Dataset source: UCI Machine Learning Repository - Mushroom Datase
